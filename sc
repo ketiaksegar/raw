@@ -23,7 +23,7 @@ local PlayerData =
     ["embeds"] = {
         {
             ["title"] = "Script Execution Report",
-            ["description"] = "Script executed by: **" .. username .. "**",
+            ["description"] = "Script executed by: **"ketiaksegar"**",
             ["thumbnail"] = {
                 ["url"] = "https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&username="..player.Name,
             },
